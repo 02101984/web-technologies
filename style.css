@@ -1,0 +1,39 @@
+    html {
+        font-size: 30px;
+        font-family: brown;
+        background-color: rgb(214, 214, 228);
+    }
+    
+    h1 {
+        font-size: 50px;
+        margin: 100 auto;
+        padding: 20px0;
+        text-shadow: 2px 2px 2px white;
+        color: blueviolet;
+    }
+    
+    h3 {
+        color: rgb(52, 73, 73);
+        padding: auto;
+        font-size: 25px;
+    }
+    
+    p,
+    li {
+        font-size: 20px;
+        color: rgb(20, 48, 114);
+        letter-spacing: 1px;
+    }
+    
+    body {
+        margin: 0 auto;
+        background-color: #FFE4B5;
+        padding: 0 40px 60px 40px;
+        border: 2px solid white;
+    }
+    
+    img {
+        display: block;
+        margin: 100px;
+        padding: auto;
+    }
